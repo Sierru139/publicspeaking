@@ -1,0 +1,1 @@
+import{a5 as t,d as n,e as r}from"./CyOQlOYI.js";const s={props:{html:{type:String,default:""}}},o=["innerHTML"];function c(l,a,e,i,_,p){return r(),n("div",{class:"html-viewer w-full",innerHTML:e.html},null,8,o)}const f=t(s,[["render",c]]);export{f as default};

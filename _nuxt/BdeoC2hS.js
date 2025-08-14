@@ -1,0 +1,1 @@
+import{a5 as t,d as s,e as o,h as a,n as c}from"./CyOQlOYI.js";const l={props:{thickness:{type:Number,default:1},color:{type:String,default:"#333333"}}},r={class:"w-full"};function n(i,d,e,u,f,_){return o(),s("div",r,[a("div",{class:"w-full",style:c({backgroundColor:e.color,height:`${e.thickness}px`})},null,4)])}const h=t(l,[["render",n]]);export{h as default};

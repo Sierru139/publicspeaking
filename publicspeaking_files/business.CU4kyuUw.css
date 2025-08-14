@@ -1,0 +1,1 @@
+.widget-box-shadow-canvas{box-shadow:var(--bs-m)}@media (width >= 768px){.widget-box-shadow-canvas{box-shadow:var(--bs-t)}}@media (width >= 1024px){.widget-box-shadow-canvas{box-shadow:var(--bs-d)}}.double-bounce{animation:sk-bounce 2s ease-in-out infinite}.double-bounce2{animation-delay:-1s}@keyframes sk-bounce{0%,to{transform:scale(0)}50%{transform:scale(1)}}
